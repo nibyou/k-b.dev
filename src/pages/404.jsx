@@ -12,7 +12,7 @@ import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 
 const NotFound = () => (
   <Layout>
-    <Seo title="404 - Not Found" />
+    <Seo title="404 - Nicht gefunden" />
     <Parallax pages={1}>
       <div>
         <Divider speed={0.2} offset={0} factor={1}>
@@ -45,9 +45,9 @@ const NotFound = () => (
         </Divider>
         <Content sx={{ variant: `texts.bigger` }} speed={0.4} offset={0} factor={1}>
           <Inner>
-            <Themed.h1>404 - Page not found</Themed.h1>
+            <Themed.h1>404 - Seite nicht gefunden</Themed.h1>
             <Themed.p>
-              Go back to <Link to="/">homepage</Link>.
+              Zurück zur <Link to="/">Startseite</Link>.
             </Themed.p>
           </Inner>
         </Content>
