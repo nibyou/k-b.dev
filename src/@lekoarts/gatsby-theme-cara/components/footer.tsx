@@ -19,7 +19,7 @@ const Footer = () => {
       >
         {isDark ? `Hell` : `Dunkel`}
       </button>
-      Copyright &copy; {new Date().getFullYear()}. Alle Rechte vorberhalten.
+      Copyright &copy; {new Date().getFullYear()}. Alle Rechte vorbehalten.
       <br />
       <Flex
         sx={{

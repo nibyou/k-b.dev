@@ -9,11 +9,12 @@ import Svg from "@lekoarts/gatsby-theme-cara/src/components/svg"
 import Seo from "@lekoarts/gatsby-theme-cara/src/components/seo"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
+import Footer from "../@lekoarts/gatsby-theme-cara/components/footer"
 
 const Impressum = () => (
   <Layout>
     <Seo title="Impressum" />
-    <Parallax pages={1}>
+    <Parallax pages={2}>
       <div>
         <Divider speed={0.2} offset={0} factor={1}>
           <UpDown>
@@ -57,13 +58,14 @@ const Impressum = () => (
                 Tel.: <Themed.a href="tel:004925354639896">+49-2535-463-989-6</Themed.a><br />
                 Email: <Themed.a href="mailto:domains@luca-kiebel.de">domains@luca-kiebel.de</Themed.a>
             </Themed.p>
-            <Themed.h3>Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV</Themed.h3>
+            <Themed.h5>Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV</Themed.h5>
             <Themed.p>Luca Kiebel</Themed.p>
 
             <Themed.h6>Zurück zur <Link to="/">Startseite</Link>.</Themed.h6>
           </Inner>
         </Content>
       </div>
+      <Footer />
     </Parallax>
   </Layout>
 )

@@ -9,11 +9,12 @@ import Svg from "@lekoarts/gatsby-theme-cara/src/components/svg"
 import Seo from "@lekoarts/gatsby-theme-cara/src/components/seo"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
+import Footer from "../@lekoarts/gatsby-theme-cara/components/footer"
 
 const NotFound = () => (
   <Layout>
     <Seo title="404 - Nicht gefunden" />
-    <Parallax pages={1}>
+    <Parallax pages={2}>
       <div>
         <Divider speed={0.2} offset={0} factor={1}>
           <UpDown>
@@ -52,6 +53,7 @@ const NotFound = () => (
           </Inner>
         </Content>
       </div>
+      <Footer />
     </Parallax>
   </Layout>
 )
