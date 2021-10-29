@@ -4,7 +4,7 @@ import { Parallax } from "@react-spring/parallax"
 import { Themed } from "theme-ui"
 import Layout from "@lekoarts/gatsby-theme-cara/src/components/layout"
 import Divider from "@lekoarts/gatsby-theme-cara/src/elements/divider"
-import { UpDown, UpDownWide } from "@lekoarts/gatsby-theme-cara/src/styles/animations"
+import { UpDown, UpDownWide, waveAnimation} from "@lekoarts/gatsby-theme-cara/src/styles/animations"
 import Svg from "@lekoarts/gatsby-theme-cara/src/components/svg"
 import Seo from "@lekoarts/gatsby-theme-cara/src/components/seo"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
@@ -53,7 +53,7 @@ const NotFound = () => (
           </Inner>
         </Content>
       </div>
-      <Divider fill="divider" speed={0.2} offset={offset} factor={factor}>
+      <Divider fill="divider" speed={0.2} offset={1} factor={1}>
       <div sx={{ position: `absolute`, bottom: 0, width: `full`, transform: `matrix(1, 0, 0, -1, 0, 0)` }}>
         <div
           sx={{

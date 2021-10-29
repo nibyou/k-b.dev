@@ -5321,7 +5321,41 @@ const Impressum = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createEl
   href: "mailto:domains@luca-kiebel.de"
 }, "domains@luca-kiebel.de")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(theme_ui__WEBPACK_IMPORTED_MODULE_11__.Themed.h5, null, "Verantwortlich f\xFCr den Inhalt gem\xE4\xDF \xA7 18 Abs. 2 MStV"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(theme_ui__WEBPACK_IMPORTED_MODULE_11__.Themed.p, null, "Luca Kiebel"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(theme_ui__WEBPACK_IMPORTED_MODULE_11__.Themed.h6, null, "Zur\xFCck zur ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(gatsby__WEBPACK_IMPORTED_MODULE_1__.Link, {
   to: "/"
-}, "Startseite"), ".")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_lekoarts_gatsby_theme_cara_src_elements_content__WEBPACK_IMPORTED_MODULE_8__["default"], {
+}, "Startseite"), ".")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_lekoarts_gatsby_theme_cara_src_elements_divider__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  fill: "divider",
+  speed: 0.2,
+  offset: 1,
+  factor: 1
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+  sx: {
+    position: `absolute`,
+    bottom: 0,
+    width: `full`,
+    transform: `matrix(1, 0, 0, -1, 0, 0)`
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+  sx: {
+    position: `relative`,
+    height: `full`,
+    svg: {
+      width: `100%`,
+      height: `40vh`
+    },
+    path: {
+      animation: (0,_lekoarts_gatsby_theme_cara_src_styles_animations__WEBPACK_IMPORTED_MODULE_5__.waveAnimation)(`20s`)
+    }
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
+  xmlns: "http://www.w3.org/2000/svg",
+  id: "contact-wave",
+  viewBox: "0 0 800 338.05",
+  preserveAspectRatio: "none"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("path", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("animate", {
+  attributeName: "d",
+  values: "M 0 100 Q 250 50 400 200 Q 550 350 800 300 L 800 0 L 0 0 L 0 100 Z;M 0 100 Q 200 150 400 200 Q 600 250 800 300 L 800 0 L 0 0 L 0 100 Z;M 0 100 Q 150 350 400 200 Q 650 50 800 300 L 800 0 L 0 0 L 0 100 Z",
+  repeatCount: "indefinite",
+  dur: "30s"
+})))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_lekoarts_gatsby_theme_cara_src_elements_content__WEBPACK_IMPORTED_MODULE_8__["default"], {
   speed: 0.4,
   offset: 1,
   factor: 1
