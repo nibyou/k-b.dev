@@ -49,7 +49,7 @@ const Impressum = () => (
             <Themed.h1>Impressum</Themed.h1>
             <Themed.h6>Angaben gemäß § 5 TMG</Themed.h6>
             <Themed.p>
-                K&amp;B Software <br /> <br />
+                K&amp;B Software Solutions<br /> <br />
                 Luca Kiebel <br />
                 Graupenstraße 7 <br />
                 38678 Clausthal-Zellerfeld <br />

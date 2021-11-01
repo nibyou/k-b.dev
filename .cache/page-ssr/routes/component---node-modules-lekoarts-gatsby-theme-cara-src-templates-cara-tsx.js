@@ -4576,7 +4576,7 @@ function MDXContent(_ref) {
     mdxType: "MDXLayout"
   }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h2", null, `Über Uns`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("blockquote", null, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", {
     parentName: "blockquote"
-  }, `Wir bei der K&B Software entwickeln Programme und Schnittstellen, um ganzheitlich alle Teilnehmer an ärztlichen Behandlungen miteinander zu verbinden.`)), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Hierzu bauen wir eine Plattform, die es erlaubt Gesundheitsdaten schnell, und dank Ende-zu-Ende-Verschlüsselung, auch sicher zwischen Patienten und verschiedenen Ärzten und Therapeuten auszutauschen.`));
+  }, `Wir bei der K&B Software entwickeln innerhalb eines einheitlichen Ökosystems Healthcare-Lösungen, welche alle Teilnehmer des Gesundheitsmarktes zukunftsorientiert miteinander verbindet.`)), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Bei allen unseren Lösungen, Schnittstellen und Programmen stellen wir stets den Patienten und die Maximiereung seiner Gesundheit in den Mittelpunkt.`));
 }
 ;
 MDXContent.isMDXComponent = true;
@@ -4682,7 +4682,7 @@ function MDXContent(_ref) {
   return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(MDXLayout, Object.assign({}, layoutProps, props, {
     components: components,
     mdxType: "MDXLayout"
-  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h1", null, `K&B Software`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Software, die Menschen verbindet.`));
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h1", null, `K&B Software Solutions`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Software, die Menschen verbindet.`));
 }
 ;
 MDXContent.isMDXComponent = true;
@@ -4741,7 +4741,7 @@ function MDXContent(_ref) {
     link: "https://nibyou.de",
     bg: "linear-gradient(to right, #98c1c12e 0%, #87b7b7 100%)",
     mdxType: "ProjectCard"
-  }, "Praxissoftware f\xFCr zertifizierte Ern\xE4hrungsberater. Von Organisation bis Therapie - alles aus einer Hand."));
+  }, "Praxissoftware f\xFCr zertifizierte Ern\xE4hrungstherapeuten. Von Organisation bis Therapie - alles aus einer Hand."));
 }
 ;
 MDXContent.isMDXComponent = true;
