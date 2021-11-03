@@ -50,7 +50,10 @@ const Impressum = () => (
             <Themed.h6>Angaben gemäß § 5 TMG</Themed.h6>
             <Themed.p>
                 K&amp;B Software Solutions<br /> <br />
-                Luca Kiebel <br />
+
+                Luca Kiebel Softwareentwicklung<br /> <br />
+
+                <Themed.h6>Juristischer Firmensitz</Themed.h6>
                 Graupenstraße 7 <br />
                 38678 Clausthal-Zellerfeld <br />
                 Deutschland <br /><br />
