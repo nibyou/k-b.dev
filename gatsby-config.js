@@ -8,13 +8,13 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `K&B`,
-    siteTitleAlt: `K&B Software`,
+    siteTitleAlt: `K&B Software Solutions`,
     siteHeadline: `K&B Software, die Menschen verbindet.`,
     siteUrl: `https://k-b.dev`,
-    siteDescription: `Landing Page der K&B Software`,
+    siteDescription: `Landing Page der K&B Software Solutions`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `K&B Software`,
+    author: `K&B Software Solutions`,
   },
   plugins: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `K&B Software Landing`,
+        name: `K&B Software Solutions Landing`,
         short_name: `K&B`,
         description: `K&B Software, die Menschen verbindet.`,
         start_url: `/`,
