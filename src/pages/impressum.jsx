@@ -51,18 +51,21 @@ const Impressum = () => (
             <Themed.p>
                 K&amp;B Software Solutions<br /> <br />
 
-                Luca Kiebel Softwareentwicklung<br /> <br />
+                Ein Projekt der <br /> 
+                Nibyou UG (haftungsbeschränk)<br /> <br />
+                  
+                 <Themed.h6> Vertreten durch den Geschäftsführer</Themed.h6> Nicolas Burscheidt <br /> <br />
 
                 <Themed.h6>Juristischer Firmensitz</Themed.h6>
-                Graupenstraße 7 <br />
-                38678 Clausthal-Zellerfeld <br />
+                Haberkamp 1 <br />
+                48324 Sendenhorst <br />
                 Deutschland <br /><br />
 
-                Tel.: <Themed.a href="tel:004925354639896">+49-2535-463-989-6</Themed.a><br />
-                Email: <Themed.a href="mailto:domains@luca-kiebel.de">domains@luca-kiebel.de</Themed.a>
+                Tel.: <Themed.a href="tel:004925192873039">+49-251-9287-303-9</Themed.a><br />
+                Email: <Themed.a href="mailto:info@nibyou.de">info@nibyou.de</Themed.a>
             </Themed.p>
             <Themed.h5>Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV</Themed.h5>
-            <Themed.p>Luca Kiebel</Themed.p>
+            <Themed.p>Luca Kiebel (Addr. s. o.)</Themed.p>
 
             <Themed.h6>Zurück zur <Link to="/">Startseite</Link>.</Themed.h6>
           </Inner>
