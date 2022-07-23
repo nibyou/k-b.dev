@@ -52,7 +52,7 @@ const Impressum = () => (
                 K&amp;B Software Solutions<br /> <br />
 
                 Ein Projekt der <br /> 
-                Nibyou UG (haftungsbeschränk)<br /> <br />
+                Nibyou UG (haftungsbeschränkt)<br /> <br />
                   
                  <Themed.h6> Vertreten durch den Geschäftsführer</Themed.h6> Nicolas Burscheidt <br /> <br />
 
